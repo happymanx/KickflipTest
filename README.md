@@ -1,3 +1,7 @@
 # KickflipTest
 
-Test for live streaming
+Live streaming test
+
+Reference:
+- https://kickflip.io/
+- https://github.com/Kickflip/kickflip-ios-sdk
